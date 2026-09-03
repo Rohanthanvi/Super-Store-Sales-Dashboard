@@ -39,6 +39,7 @@ scatter, map, waterfall, and slicer.
 
 ## Files
 
+- `SuperStore_Sales_Dashboard.pbix` — the Power BI Desktop file (open in Power BI Desktop to explore interactively)
 - `data/SuperStore_Sales_Dataset.csv` — source dataset (~5,900 transaction rows)
 - `report/SuperStoreSales_Report.pdf` — full capstone write-up: problem statement,
   objectives, solution walkthrough, dashboard screenshots, and key findings
